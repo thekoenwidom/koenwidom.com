@@ -18,7 +18,7 @@ h1 {
     font-weight: 300;
     font-style: normal;
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 h2 {
@@ -33,6 +33,7 @@ h2 {
     margin-top: 10px;
     margin-bottom: 25px;
     z-index: 10;
+    font-size: 30px;
 }
 
 .navbar ul {
